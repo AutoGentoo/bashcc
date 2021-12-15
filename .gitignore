@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+cmake-build-*/
+
+# CLion IDE
+.idea/workspace.xml
+
+
